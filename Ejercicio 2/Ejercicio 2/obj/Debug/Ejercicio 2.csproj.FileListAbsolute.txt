@@ -1,0 +1,10 @@
+C:\Users\sabri\OneDrive\Escritorio\REPOSITORIOS\TP10-CedronAgustina\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.exe.config
+C:\Users\sabri\OneDrive\Escritorio\REPOSITORIOS\TP10-CedronAgustina\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.exe
+C:\Users\sabri\OneDrive\Escritorio\REPOSITORIOS\TP10-CedronAgustina\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.pdb
+C:\Users\sabri\OneDrive\Escritorio\REPOSITORIOS\TP10-CedronAgustina\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.AssemblyReference.cache
+C:\Users\sabri\OneDrive\Escritorio\REPOSITORIOS\TP10-CedronAgustina\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio_2.Form1.resources
+C:\Users\sabri\OneDrive\Escritorio\REPOSITORIOS\TP10-CedronAgustina\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio_2.Properties.Resources.resources
+C:\Users\sabri\OneDrive\Escritorio\REPOSITORIOS\TP10-CedronAgustina\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.GenerateResource.cache
+C:\Users\sabri\OneDrive\Escritorio\REPOSITORIOS\TP10-CedronAgustina\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\sabri\OneDrive\Escritorio\REPOSITORIOS\TP10-CedronAgustina\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.exe
+C:\Users\sabri\OneDrive\Escritorio\REPOSITORIOS\TP10-CedronAgustina\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.pdb
